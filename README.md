@@ -18,10 +18,10 @@ Specification:
 - [X] 4. Modify the local main.cpp by uncommenting the code to output "hello, world".  
 - [X] 5. Build and run the program.  
 - [X] 6. Update the REPORT.md file.  
-- [ ] 7. Review the git status of your local changes.  
-- [ ] 8. Commit your changes using: git commit -m "Description of changes in this commit."  
-- [ ] 9. Push your changes to your repository.  
-- [ ] 10. Confirm your Pull Request changes are available on GitHub for this repository.  
+- [X] 7. Review the git status of your local changes.  
+- [X] 8. Commit your changes using: git commit -m "Description of changes in this commit."  
+- [X] 9. Push your changes to your repository.  
+- [X] 10. Confirm your Pull Request changes are available on GitHub for this repository.  
 
 If you want to contribute to this repository, email me a message and a Pull Request updating the instructions to make them clearer.  
 
